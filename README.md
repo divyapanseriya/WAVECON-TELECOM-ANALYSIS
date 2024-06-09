@@ -1,6 +1,6 @@
 # Wavecon Telecom 5g Insights
 
-I'm thrilled to share a key milestone in my professional development journey! As part of the Codebasics 𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩, I am diving into a project that is as challenging as it is enlightening. The task? To dissect and understand the impact of 5G on Wavecon Telecom’s business dynamics.
+The project focuses on analyzing the impact of 5G introduction at WAVECON TELECOM on revenue, market performance, and customer adoption, highlighting transformative shifts in the telecom industry.
 
 Live Dashboard Link -https://lnkd.in/ebkCwgk4
 
